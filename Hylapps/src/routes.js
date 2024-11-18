@@ -29,7 +29,7 @@ const allRoutes = [
 
   {
     type: "route",
-    name: "Sgs Ops Dashboard",
+    name: "SGS-NL-(Bulk) Ops Dashboard",
     key: "Sgs Ops Dashboard",
     route: "/SgsOpsDashboard",
     icon: <ArgonBox component="i" color="success" fontSize="14px" className="fa-solid fa-sliders" />,
